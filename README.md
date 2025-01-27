@@ -1,4 +1,4 @@
-# Superstore-Sales-Insights
+# Superstore_Sales_Insights
 This dashboard offers an in-depth analysis of Superstore sales, highlighting top products, customer segments, regional performance, and operational insights. Interactive visuals reveal trends in sales, profits, and shipping, supporting data-driven decision-making for business growth.
 
 ![image](https://github.com/user-attachments/assets/cada2bb1-e565-4e86-aeb3-8e80cdb3cb06)
